@@ -13,7 +13,7 @@ NOTE : Change configuration settings and add migration before running the projec
 
 ![2](https://user-images.githubusercontent.com/63660334/122870899-e3a23b00-d34b-11eb-9aea-eb42b62be6b1.png)
 
-Add Movie Category
+Add New Category for Movies
 
 https://user-images.githubusercontent.com/63660334/122871212-53182a80-d34c-11eb-9c71-e2447e99cdc1.mp4
 
