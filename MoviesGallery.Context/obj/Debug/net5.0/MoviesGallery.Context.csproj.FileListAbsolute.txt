@@ -1,0 +1,15 @@
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\bin\Debug\net5.0\MoviesGallery.Context.deps.json
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\bin\Debug\net5.0\MoviesGallery.Context.dll
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\bin\Debug\net5.0\ref\MoviesGallery.Context.dll
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\bin\Debug\net5.0\MoviesGallery.Context.pdb
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\bin\Debug\net5.0\MoviesGallery.Models.dll
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\bin\Debug\net5.0\MoviesGallery.Models.pdb
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.csproj.AssemblyReference.cache
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.AssemblyInfoInputs.cache
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.AssemblyInfo.cs
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.csproj.CopyComplete
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.dll
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\ref\MoviesGallery.Context.dll
+C:\Users\sagar\Documents\MoviesGallery\MoviesGallery.Context\obj\Debug\net5.0\MoviesGallery.Context.pdb
